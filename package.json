@@ -1,0 +1,26 @@
+{
+  "name": "imagesearchabstractionlayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LionRoar/Image-Search-Abstraction-Layer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LionRoar/Image-Search-Abstraction-Layer/issues"
+  },
+  "homepage": "https://github.com/LionRoar/Image-Search-Abstraction-Layer#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "dotenv": "^4.0.0"
+  }
+}
